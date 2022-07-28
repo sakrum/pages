@@ -500,7 +500,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		font-family: Verdana, Arial, Helvetica, sans-serif;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -950,6 +950,12 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+
+/* sans-serif */
+
+	.fontsans {
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
 
 /* Image */
 
